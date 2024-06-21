@@ -1,6 +1,7 @@
 # How2CreateOrDeleteRepositories
 How to Create and/or Delete Repositories in github
 
+#######################################################################
 Create a repository
 (https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
 
@@ -14,8 +15,7 @@ Create a repository
     information under the ssh tab. Use this information to clone this 
     repository into your client.
     
-
-
+#######################################################################
 
 Deleting a repository
 (https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)
