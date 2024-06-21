@@ -22,7 +22,9 @@ Create a repository
 #######################################################################
 
 Deleting a repository
+
 (https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)
+
 1.- On GitHub.com, navigate to the main page of the repository.
 
 2.- Under your repository name, click Settings tab 
