@@ -9,22 +9,22 @@ Step 1: Create a local git repository (see https://kamileyagci.github.io/GitHubR
 
 1.-  On terminal, go into your local project directory which you plan to create a git repository from.
 
-cd project_test
+        cd project_test
 
-Note: Use your own the directory path.
+        Note: Use your own the directory path.
 
 2.- Initialize the local git repository.
 
-git init
+        git init
 
-- (Optional) Create ‘.gitignore’ in your project directory. This file contains the list of files and directories to be excluded, not tracked and not uploaded, in the git repository. Even though it is not a required component, I highly encourage you to create one. See ‘More Tips’ section below to learn how to create .gitignore file.
+3.- (Optional) Create ‘.gitignore’ in your project directory. This file contains the list of files and directories to be excluded, not tracked and not uploaded, in the git repository. Even though it is not a required component, I highly encourage you to create one. See ‘More Tips’ section below to learn how to create .gitignore file.
 
 4.- Add files to the repository.
 
-git add *
+        git add *
 
 5.- Commit changes.
-
+        git commit -am ‘Initial commit’
 
 
 Create a repository
