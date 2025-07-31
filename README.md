@@ -27,7 +27,7 @@ Step 1: Create a local git repository (see https://kamileyagci.github.io/GitHubR
         git commit -am ‘Initial commit’
 
 
-Create a repository
+Spet 2 - Create a new blank repository on GitHub
 (https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
 
 1.- In the upper-right corner of any page, select +, then click New repository.
