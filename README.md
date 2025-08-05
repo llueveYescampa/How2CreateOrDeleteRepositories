@@ -19,6 +19,15 @@ How to Create and/or Delete Repositories in github
 6.- Once the repository is created click the "<> Code" button and copy the 
     information under the ssh tab. Use this information to clone this 
     repository into your client.
+        see example below.
+        
+        #git init
+        #git add README.md
+        #git commit -m "first commit"
+        #git branch -M main
+        #git remote add origin git@github.com:llueveYescampa/OpenStruc.git
+        #git push -u origin main
+    
     
 #######################################################################
 
